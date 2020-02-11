@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: :SkypeForBusinessNative:@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/SkypeForBusinessNative/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/SkypeForBusinessNative/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/SkypeForBusinessNative/jars/libs/palvideo.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/SkypeForBusinessNative/jars/libs/palutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/SkypeForBusinessNative/jars/libs/dl-video.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/SkypeForBusinessNative/jars/libs/HwVideoCodec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/SkypeForBusinessNative/jars/libs/dl-audio.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/SkypeForBusinessNative/jars/libs/dl-common.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

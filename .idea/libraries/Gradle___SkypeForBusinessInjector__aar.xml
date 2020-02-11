@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :SkypeForBusinessInjector:@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/SkypeForBusinessInjector/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/SkypeForBusinessInjector/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/SkypeForBusinessInjector/jars/libs/javax.inject-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

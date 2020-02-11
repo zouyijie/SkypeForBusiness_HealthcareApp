@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :SkypeForBusiness:@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/SkypeForBusiness/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/SkypeForBusiness/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

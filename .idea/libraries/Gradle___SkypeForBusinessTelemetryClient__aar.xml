@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :SkypeForBusinessTelemetryClient:@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/SkypeForBusinessTelemetryClient/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/SkypeForBusinessTelemetryClient/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/SkypeForBusinessTelemetryClient/jars/libs/bond-3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
